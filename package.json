@@ -1,0 +1,28 @@
+{
+  "name": "customerorders-api",
+  "version": "1.0.0",
+  "description": "API for listing customers and their orders",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christrain91/customerorders-api.git"
+  },
+  "keywords": [
+    "customer",
+    "orders",
+    "api"
+  ],
+  "author": "Christopher Train",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christrain91/customerorders-api/issues"
+  },
+  "homepage": "https://github.com/christrain91/customerorders-api#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.11"
+  }
+}
