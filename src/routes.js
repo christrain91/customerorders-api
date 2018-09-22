@@ -18,7 +18,7 @@ function createRoutes (app) {
 }
 
 /**
- * Create the order routes
+ * Create the customer routes
  *
  * @param {Object} app The express app to create the routes for
  */
