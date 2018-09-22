@@ -22,10 +22,12 @@ You can also get the orders for a customer via `http://localhost:8085/order/list
 
 1. Add a search parameter to the `/customer/list` route, this should bring back any customers that have a name that contains the search term.
 
-2. Create a simple web application that displays the customers and allows the user to search for them using the `/customer/list` route. Clicking on a customer should list all orders for a customer, if no orders are found, ensure that a messageis displayed that reads "No orders have been booked for this customer yet."
+2. Create a simple web application that displays the customers and allows the user to search for them using the `/customer/list` route. Clicking on a customer should list all orders for a customer, if no orders are found, display a message that reads "No orders have been booked for this customer yet."
 
 ## Submitting your work
 
 Push all your work up to your fork and send an email containing your name and a link to your repository  to **ctrain@pcs-publishing.com**
 
 If you have any questions, or run into any problems please feel free to contact me via the email.
+
+Good luck!
