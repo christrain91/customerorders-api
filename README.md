@@ -26,7 +26,7 @@ You can also get the orders for a customer via `http://localhost:8085/order/list
 
 ## Submitting your work
 
-Push all your work up to your fork and send an email containing your name and a link to your repository  to **ctrain@pcs-publishing.com**
+Push all your work up to your fork and send an email containing your name and a link to your repository to **ctrain@pcs-publishing.com**
 
 If you have any questions, or run into any problems please feel free to contact me via email.
 

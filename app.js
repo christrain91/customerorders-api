@@ -14,6 +14,13 @@ app.listen(port, () => {
   logger.info('Registered routes: ', getRegisteredRoutes(app))
 })
 
+/**
+ * Get all registered routes for an express app
+ *
+ * @param {Object} app The express app to get the routes for
+ *
+ * @return {String[]} The registered routes
+ */
 function getRegisteredRoutes (app) {
   return _.compact(_.map(app._router.stack, (r) => {
     if (r.route && r.route.path) {
