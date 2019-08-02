@@ -3,8 +3,8 @@ API responsible for listing customers and their orders.
 
 ## Prerequisites
 * A GitHub account
-* Git installed on your local machine
-* Node JS installed on your local machine
+* Git
+* Node JS
 
 ## Setup
 Create a fork of this repository and clone your fork on to your local machine. From the app directory, open a terminal and run `npm install` this will install the local dependencies for the project. To run the API run `npm start` if the API launched successfully you should see the message: *"App listening on port: 8085"*.
