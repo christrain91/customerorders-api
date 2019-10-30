@@ -23,6 +23,6 @@
   "homepage": "https://github.com/christrain91/customerorders-api#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   }
 }
